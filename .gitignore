@@ -1,0 +1,27 @@
+# --- PyInstaller build artifacts ---
+mainfolder/build/*
+mainfolder/dist/
+*.spec
+
+# --- Data folders ---
+mainfolder/input/*
+mainfolder/output/*
+
+!mainfolder/input/.gitkeep
+!mainfolder/output/.gitkeep
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+*/venv/
+*/shipenv/
+*/.env/
+*/.venv/
+
+# --- OS-specific ---
+*/.DS_Store
+*/Thumbs.db
