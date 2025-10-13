@@ -1,4 +1,4 @@
 paths:
   input_folder: "/Users/nunny/Desktop/Shipping-File-ANI/mainfolder/input-folder"
   output_folder: "/Users/nunny/Desktop/Shipping-File-ANI/mainfolder/output"
-  temp_data: "mainfolder/temp_data.csv"
+  temp_data: "/Users/nunny/Desktop/Shipping-File-ANI/mainfolder/temp_data.csv"
